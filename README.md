@@ -8,7 +8,7 @@ Projeto realizado durante as aulas do curso React: desenvolvendo em React Router
 | :sparkles: Nome        | **OlaMundo**
 | :label: Tecnologias | html, CSS, javascript e React
 | :rocket: URL         | 
-| :fire: Desafio     | https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos
+| :fire: Desafio     | https://cursos.alura.com.br/course/React-desenvolvendo-react-router-javaScript
 
 
 
